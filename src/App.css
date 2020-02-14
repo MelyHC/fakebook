@@ -1,0 +1,33 @@
+
+.fakesize {
+  height: 90vh;
+}
+
+.fakefont {
+  font-weight: bolder;
+  font-style: normal;
+}
+
+.fakeback {
+  background-color: rgb(63,92,154);
+}
+
+.fakebackw {
+  background-color: rgb(233,235,238);
+}
+
+.fakebtnlogin ,
+.fakeposthead {
+  color: white !important;
+  background-color: rgb(66,103,178) !important; 
+  border-color: rgb(66,103,178) !important;
+}
+
+.fakebtnlogin:hover {
+  background-color: rgb(63,92,154) !important;
+  border-color: rgb(63,92,154) !important;
+}
+
+.fakeborderbottom {
+  border-bottom: 1px solid #ced4da !important;
+}
