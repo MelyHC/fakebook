@@ -19,7 +19,7 @@ class App extends Component {
 
   registerUser = (e) => {
     e.preventDefault();
-    console.log(e.target['user-name'],);
+    console.log(e.target['user-name']);
   }
 
   render() {
